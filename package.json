@@ -39,11 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Niksel00/ajs-test-ci-lesson-4-task-2.git"
+    "url": "git+https://github.com/Niksel00/ajs-test-ci-lesson-4-task-3.git"
   },
   "bugs": {
-    "url": "https://github.com/Niksel00/ajs-test-ci-lesson-4-task-2/issues"
+    "url": "https://github.com/Niksel00/ajs-test-ci-lesson-4-task-3/issues"
   },
-  "homepage": "https://github.com/Niksel00/ajs-test-ci-lesson-4-task-2#readme",
+  "homepage": "https://github.com/Niksel00/ajs-test-ci-lesson-4-task-3#readme",
   "description": ""
 }
